@@ -22,4 +22,5 @@ int main()
     intRefWrapper.get() = 43;
 
     std::cout << "a is now " << a << '\n';
-}```
+}
+```
