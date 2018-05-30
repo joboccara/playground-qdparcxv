@@ -1,4 +1,4 @@
-title: Simple C++ Template
+title: Wrapper<int&>
 plan:
 - title: C++ Snippet
   statement: statement.md
